@@ -1,3 +1,2 @@
 1st line is added in local repo.
 2nd line is commit on current repo.
-3rd line in commit on remote repo.
